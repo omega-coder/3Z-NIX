@@ -17,6 +17,9 @@ WKDIR="$(pwd)"
 # Step 2: - cd to the build staging folder
 #
 #
+
+mkdir -p $WKDIR/3Z-NIX
+
 cd 3Z-NIX
 #
 #
