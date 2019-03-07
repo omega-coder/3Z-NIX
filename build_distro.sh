@@ -88,4 +88,3 @@ mkdir -p $WKDIR/3Z-NIX/config/includes.chroot/etc/skel/Desktop
 #
 # Phase 6: - Start the build process
 #
-lb build
