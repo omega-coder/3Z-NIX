@@ -1,0 +1,3 @@
+#!/bin/sh
+# Remove xsane and murrine themes
+apt-get -y purge xsane xsane-common murrine-themes

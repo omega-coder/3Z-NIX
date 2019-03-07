@@ -1,0 +1,6 @@
+#!/bin/sh
+# Remove Old Xfce themes
+rm -r /usr/share/themes/Xfce-*
+rm -r /usr/share/themes/ZOMG*
+rm -r /usr/share/themes/Raleigh*
+#
